@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @farzeen-cloud
-- 👀 I’m interested in Developing
-- 🌱 I’m currently learning Full Stack React-Magento.
+- 👀 Technology Analyst @emvigotechnologies
+- 🌱 Adobe Commerce Certified Deveoper | Magento
 - 📫 How to reach me ... +91 7736153363
 
